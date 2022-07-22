@@ -1,0 +1,10 @@
+{
+    "name":"In app",
+    "version":1.0,
+    "description": [
+        "added new screen"
+    ],
+    "macos_file_name": "installers/macos/flutter_update.dmg",
+    "windows_file_name" :"installers/windows/mysetup.exe",
+    "linux_file_name":""
+}
